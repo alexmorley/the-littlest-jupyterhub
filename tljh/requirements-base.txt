@@ -2,7 +2,7 @@
 # pinning only direct dependencies is a recipe for broken environments!
 
 # JupyterHub + notebook package are base requirements for user environment
-jupyterhub==1.0.*
+jupyterhub==1.1.*
 notebook==6.0.*
 # Install additional notebook frontends!
 jupyterlab==1.2.*
